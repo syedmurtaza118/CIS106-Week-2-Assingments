@@ -1,0 +1,15 @@
+Input
+
+Get hours, rate
+
+Processing
+
+Weekly Pay = Hours x Rate 
+
+Monthly Pay = Weekly Pay x 4
+
+Annual Pay = Weekly Pay x 52
+
+Output
+
+Display Weekly Pay, Monthly Pay, Annual Pay 

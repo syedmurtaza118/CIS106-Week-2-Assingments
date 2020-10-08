@@ -1,0 +1,15 @@
+Input
+
+Get Length, Width 
+
+Processing 
+
+Area = (2 X Length X Width) + ( 2 X Length X Width)
+
+Total Gallons = Area / Square Feet Per Gallon
+
+Cost = (Total Gallons X Price Per Gallon) + 0.9999
+
+Output 
+
+Display Cost

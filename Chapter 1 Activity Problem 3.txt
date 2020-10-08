@@ -1,0 +1,19 @@
+Input 
+
+Get coins
+
+Processing
+
+1 Dollar = 100 cents 
+
+1 quarter = 25 cents
+
+1 dime = 10 cents 
+
+1 nickel = 5 cents 
+
+1 penny = 1 cents
+
+Output 
+
+Display total dollars  

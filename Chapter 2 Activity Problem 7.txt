@@ -1,0 +1,15 @@
+Input 
+
+Get Dog Name, Age
+
+Processing
+
+Dog Name = Spike
+
+Dog Age = 14 
+
+Dog Human Age = Dog Age x 7 
+
+Output 
+
+Display, Dog Name, Dog Human Age
